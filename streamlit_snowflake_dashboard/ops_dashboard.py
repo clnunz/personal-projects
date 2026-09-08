@@ -3,7 +3,7 @@ from snowflake.snowpark.context import get_active_session
 
 # Page config
 st.set_page_config(layout="wide")
-st.title("📊 GTM Operations Dashboard")
+st.title("GTM Operations Dashboard")
 st.markdown("Built natively in Snowflake (SiS) to explore the architecture!")
 st.divider()
 
